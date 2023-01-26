@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="766"
-     inkscape:cy="577.5"
+     inkscape:cx="622"
+     inkscape:cy="798.5"
      inkscape:window-width="1366"
      inkscape:window-height="670"
      inkscape:window-x="0"
@@ -1085,7 +1085,9 @@
        fill="#99ffdd"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g332">
+       id="g332"
+       onmouseover="getElementById(&quot;tokushima&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;tokushima&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1121,7 +1123,9 @@
        fill="#ccffee"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g338">
+       id="g338"
+       onmouseover="getElementById(&quot;kochi&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;kochi&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1142,7 +1146,9 @@
        fill="#33ffbb"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g432">
+       id="g432"
+       onmouseover="getElementById(&quot;ehime&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;ehime&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1383,7 +1389,9 @@
        fill="#66ffcc"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g516">
+       id="g516"
+       onmouseover="getElementById(&quot;kagawa&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;kagawa&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;shikokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1612,7 +1620,9 @@
        fill="#cc98ff"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g628">
+       id="g628"
+       onmouseover="getElementById(&quot;hiroshima&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;hiroshima&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1893,7 +1903,9 @@
        fill="#9933ff"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g640">
+       id="g640"
+       onmouseover="getElementById(&quot;shimane&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;shimane&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -1919,6 +1931,27 @@
          fill-rule="evenodd"
          d="m 945.096,1029.43 -0.492,-0.38 -0.255,1.17 -0.119,0.04 -0.301,-0.58 -0.229,0.62 -0.512,-0.64 -1.072,0.46 -0.301,-0.22 0.306,-0.55 -0.487,-0.6 0.346,-0.24 -0.438,-0.21 0.294,-0.21 -0.376,-0.36 -0.085,-0.51 1.965,0.24 0.129,-0.27 1.314,0.95 0.04,0.36 1.564,0.75 0.644,0.05 -0.268,0.43 -0.32,-0.04 0.016,1 -0.369,0.19 -0.454,-0.3 0.203,-0.78 -0.83,0.06 0.087,-0.43"
          id="path638" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke-width:1.56289;stroke-miterlimit:4;stroke-dasharray:none"
+         x="898.42847"
+         y="1069.3197"
+         id="shimane"><tspan
+           sodipodi:role="line"
+           id="tspan115793"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289;stroke-miterlimit:4;stroke-dasharray:none"
+           x="898.42847"
+           y="1069.3197">しまねけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289;stroke-miterlimit:4;stroke-dasharray:none"
+           x="898.42847"
+           y="1092.6637"
+           id="tspan115797">島根県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289;stroke-miterlimit:4;stroke-dasharray:none"
+           x="898.42847"
+           y="1113.5022"
+           id="tspan115799">Shimane</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -1929,7 +1962,9 @@
        fill="#9933ff"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g688">
+       id="g688"
+       onmouseover="getElementById(&quot;okayama&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;okayama&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2055,7 +2090,9 @@
        fill="#b366ff"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g722">
+       id="g722"
+       onmouseover="getElementById(&quot;yamaguchi&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;yamaguchi&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2136,6 +2173,27 @@
          fill-rule="evenodd"
          d="m 874.213,1222.81 -0.006,0.03 -0.117,-0.02 0.041,-0.03 0.082,0.02"
          id="path720" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#00000e;fill-opacity:1;stroke-width:1.56289"
+         x="776.15027"
+         y="1169.9463"
+         id="yamaguchi"><tspan
+           sodipodi:role="line"
+           id="tspan120983"
+           style="fill:#00000e;fill-opacity:1;stroke-width:1.56289"
+           x="776.15027"
+           y="1169.9463">やまぐちけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#00000e;fill-opacity:1;stroke-width:1.56289"
+           x="776.15027"
+           y="1193.2903"
+           id="tspan120987">山口県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#00000e;fill-opacity:1;stroke-width:1.56289"
+           x="776.15027"
+           y="1214.1288"
+           id="tspan120989">Yamaguchi</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2146,12 +2204,35 @@
        fill="#b366ff"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g726">
+       id="g726"
+       onmouseover="getElementById(&quot;tottori&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;tottori&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chugokuregion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
          d="m 962.03,1073.25 -0.157,-0.19 -0.361,0.7 -0.803,0.57 0.098,0.21 -0.28,0.14 -0.068,-0.31 h -0.034 l 0.021,0.02 0.105,0.48 0.094,0.03 -0.097,-0.02 -0.087,-0.4 -0.201,0.05 0.038,0.4 0.222,0.06 -0.136,0.24 0.321,-0.02 -0.04,-0.21 0.462,0.18 0.37,0.81 -0.699,0.52 1.714,2.2 2.849,1.99 2.274,0.65 0.009,0.21 0.108,-0.13 -0.138,-0.16 4.752,1.08 1.849,-0.72 0.145,-0.45 -0.306,0.07 0.45,-0.2 0.416,-1.12 -0.262,-0.21 0.033,-0.05 0.218,-0.19 0.084,-0.11 0.568,-0.32 0.336,-0.7 1.962,-0.39 1.39,-0.9 0.379,-0.39 -0.165,-0.16 0.343,-0.15 1.35,-0.17 0.329,-0.31 0.896,0.13 0.371,-0.43 0.785,0.24 0.835,-0.25 0.704,-0.54 -0.163,-0.08 0.138,0.02 0.054,0.07 1.833,-0.22 0.272,0.07 h -0.196 l 0.237,0.41 0.984,0.43 3.365,0.64 0.593,0.35 h -0.2 l 0.112,0.29 0.421,-0.25 -0.085,0.26 0.624,0.23 2.728,-0.18 1.786,0.6 2.159,0.16 6.762,-0.27 2.34,-0.26 0.14,-0.33 v 0.31 l 0.14,-0.25 3.69,-0.12 0.62,-0.2 0.26,-0.43 0.2,0.21 -0.15,-0.25 0.17,-0.13 0.71,-0.1 0.29,0.24 0.54,-0.22 0.06,-0.34 -0.04,-0.25 0.76,0.37 0.15,-0.31 -0.03,0.32 0.66,-0.07 0.22,-0.31 0.11,0.29 0.58,-0.29 0.44,0.14 0.29,-0.13 0.13,-0.5 -0.25,0.06 0.65,-0.75 0.92,1.33 -0.15,0.21 0.22,-0.18 0.08,0.11 -0.11,0.17 0.12,0.09 0.94,0.13 2.96,-0.2 1.23,-0.54 0.58,0.2 0.36,-0.28 0.67,0.17 4.06,-0.67 1.25,-0.35 0.01,-0.4 0.44,-0.14 0.04,0.03 0.02,0.09 -0.41,0.01 0.01,0.2 0.57,-0.08 0.73,0.59 -0.13,-0.42 -0.55,-0.25 v -0.34 l 0.33,0.23 v -0.58 l 0.43,0.59 0.95,-0.1 4.63,-1.62 0.43,-0.43 -0.19,-0.18 0.36,-0.69 0.97,-0.16 0.09,-0.17 -0.39,-0.28 0.14,-0.21 -0.1,0.19 0.25,0.17 0.14,-0.21 -0.2,-0.09 0.04,-0.05 0.26,0.05 0.01,-0.08 -0.16,-0.17 0.48,0.23 -0.4,-0.35 -0.47,0.22 0.62,-0.67 1.29,-0.23 0.46,-0.44 0.2,0.04 -0.48,0.26 0.47,0.1 0.05,-0.04 -0.07,-0.21 0.4,0.41 1.1,-0.3 -0.07,-0.32 0.27,-0.1 -0.26,-0.23 0.26,-0.2 -0.08,-0.53 0.45,-0.09 0.14,0.26 -0.21,0.18 0.31,0.34 0.79,0.05 0.89,-0.4 0.01,-0.77 0.06,0.38 1.67,0.69 0.02,0.32 1.17,0.86 -0.26,1.75 0.22,0.52 1.08,0.24 0.25,1.02 -0.32,0.67 0.36,0.28 -0.99,2.55 1.15,0.6 0.25,0.58 -0.27,0.56 0.83,1.95 -0.34,0.91 0.34,0.49 0.14,1.74 0.48,0.09 0.47,0.52 0.81,-0.03 1.34,0.92 -0.33,0.33 0.19,0.23 -0.12,0.65 0.36,0.36 -0.07,0.7 -0.7,2.21 0.27,0.49 0.61,0.14 0.47,0.49 1.08,0.19 0.1,0.58 0.75,0.59 -0.28,0.26 -0.04,0.73 -0.41,0.56 -0.2,1.01 0.12,0.76 0.88,1.02 -0.25,0.23 -0.18,1.06 0.47,1.58 -1.95,1.51 -0.28,-0.13 -0.69,1.26 -1.21,0.51 0.13,0.68 -1.22,-0.1 -0.98,0.82 -0.59,-0.23 -0.35,-0.52 -1.55,-0.36 -0.37,-0.88 -0.59,-0.19 -1.34,0.61 0.14,0.77 -0.45,0.56 -2.49,1.15 -0.13,0.61 -1.06,1.07 h -1.72 l -1.59,0.47 -0.61,-0.43 -0.2,-0.66 -0.57,-0.25 -0.5,0.26 -0.33,0.72 -1.69,0.32 -0.47,0.64 -2.19,0.13 -0.26,1.23 -0.97,0.66 -0.77,-0.26 0.11,-0.78 -0.26,-0.68 -0.97,-0.81 0.15,-1.05 0.66,-1.19 -0.14,-0.34 0.19,-0.45 -0.46,-0.62 -1.06,0.3 -0.55,-0.69 0.63,-0.41 -0.19,-0.73 0.58,-0.69 -0.99,-1.07 0.28,-0.51 -0.12,-0.39 -0.42,-0.41 -0.56,0.29 -0.88,-0.33 -1.39,-2.09 -0.87,-0.16 -0.18,0.44 -0.69,0.01 -0.38,0.51 -0.62,-0.55 -0.78,0.47 -1.84,-0.92 -0.51,0.21 -1.05,-0.24 -0.67,-0.63 0.37,-1 0.88,-0.83 -0.37,-0.59 0.39,-0.55 -0.08,-0.4 -1.32,-0.24 -1.39,0.9 -0.78,-0.42 -1.07,0.55 -0.8,0.89 -0.87,-0.23 -0.47,1 0.3,0.77 -0.51,0.9 -1.32,-0.03 -0.78,0.28 -0.93,0.94 -1.84,0.17 -0.1,0.53 0.42,0.19 -0.22,0.73 0.19,0.46 -0.97,0.61 -0.74,1.15 0.06,0.39 -1.38,0.01 -0.66,-0.3 v -0.63 l -0.82,-1.05 0.14,-0.62 -0.61,-0.73 -0.11,-0.76 -0.81,-0.08 0.02,-0.38 -0.48,0.26 -1.64,-1.54 -0.414,0.27 -0.484,-0.3 -0.42,-0.77 -0.227,0.29 -0.364,-0.24 -0.2,0.28 -0.471,-0.06 -2.454,-0.99 -0.42,0.29 -0.033,0.37 -0.995,0.12 -0.329,-0.42 -0.816,-0.17 -1.073,-1.05 -1.296,-0.34 -0.822,0.3 -0.465,-0.4 -0.834,-0.02 -0.683,-0.36 -0.629,0.75 0.311,0.6 -1.205,1.54 0.059,1.62 -0.547,0.98 0.139,0.54 -0.276,0.38 0.249,0.43 -0.389,0.6 0.097,0.89 -0.441,0.23 -0.127,0.72 -0.452,0.47 -0.85,-0.13 -0.701,0.61 -1.395,-0.37 -0.866,1.18 0.779,0.74 0.461,0.94 0.111,1.32 0.469,0.87 -0.225,0.4 -0.531,0.01 -0.243,-0.74 -0.352,0.09 -0.281,-0.32 -0.569,0.06 -0.352,0.55 -0.486,-0.09 -0.555,0.49 -0.606,0.04 -0.553,0.64 -0.581,-0.25 -0.27,0.45 -0.692,0.17 -1.484,-0.57 -0.475,0.12 -0.51,-0.82 -0.628,-0.1 -0.847,0.47 -0.161,0.45 0.198,0.34 -0.288,0.45 0.373,0.28 0.527,2.03 0.49,0.43 0.047,1.66 -0.653,0.64 -2.348,0.13 -1.396,1.15 -0.611,-0.47 -0.674,-0.08 -0.981,1.24 -0.961,-0.44 -0.203,0.18 -0.894,-0.73 -0.442,0.22 -0.416,0.71 0.238,2.18 -0.506,0.53 -0.568,-0.07 -0.6,0.8 -0.643,-0.55 -0.867,-1.47 -1.331,0.15 0.084,0.71 -0.259,0.18 -1.478,-0.58 -2.522,0.66 -0.804,-0.04 -0.525,-0.62 -1.459,0.89 -0.483,-0.55 0.041,-0.35 0.382,-0.19 -0.143,-0.28 0.209,-0.19 -0.365,-0.36 -0.065,-0.52 0.245,-0.89 0.441,-0.47 -0.41,-1.23 0.494,-0.53 -0.114,-0.72 0.255,-0.82 0.695,-0.84 0.651,-0.02 0.365,-0.41 1.027,-0.31 0.613,-0.57 0.235,-0.67 -0.428,-1.39 -0.562,-0.34 0.199,-0.68 -0.203,-0.57 -1.02,-0.75 -1.241,0.52 -0.013,-1.43 2.243,-1.46 2.347,-0.69 0.817,-0.69 0.743,0.23 0.859,-0.36 0.766,-0.91 1.727,0.2 0.493,-0.42 0.748,0.15 1.454,-0.68 -0.244,-1.3 -0.61,-0.96 0.575,-1.09 -0.352,-0.2 -0.762,-1.43 0.466,-0.43 -0.23,-0.35 0.036,-1.94 0.897,-1.56 0.641,0.03 0.256,-0.33 -0.06,-0.41 0.463,-0.07 -0.844,-1.26 0.591,-0.79 -0.051,-1.38 -0.917,-1.95 -2.831,-1.43 -3.823,-3.25 -1.842,-4.34 0.204,-0.89 1.594,-1.16 2.196,-0.14 1.681,-0.46 -0.36,0.51"
          id="path724" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000004;fill-opacity:1;stroke-width:1.56289"
+         x="1007.5328"
+         y="1050.4404"
+         id="tottori"><tspan
+           sodipodi:role="line"
+           id="tspan110649"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1007.5328"
+           y="1050.4404">とっとりけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1007.5328"
+           y="1073.7844"
+           id="tspan110653">鳥取県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1007.5328"
+           y="1094.6229"
+           id="tspan110655">Tottori</tspan></text>
     </g>
     <g
        stroke-opacity="1"
@@ -2175,7 +2256,9 @@
        fill="#e6ffcc"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g746">
+       id="g746"
+       onmouseover="getElementById(&quot;hyogo&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;hyogo&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2226,7 +2309,9 @@
        fill="#ccff99"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g756">
+       id="g756"
+       onmouseover="getElementById(&quot;wakayama&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;wakayama&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2257,7 +2342,9 @@
        fill="#99ff33"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g760">
+       id="g760"
+       onmouseover="getElementById(&quot;osaka&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;osaka&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2273,7 +2360,9 @@
        fill="#ccff99"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g764">
+       id="g764"
+       onmouseover="getElementById(&quot;shiga&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;shiga&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2289,7 +2378,9 @@
        fill="#e6ffcc"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g768">
+       id="g768"
+       onmouseover="getElementById(&quot;nara&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;nara&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2305,7 +2396,9 @@
        fill="#99ff33"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g774">
+       id="g774"
+       onmouseover="getElementById(&quot;mie&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;mie&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2316,6 +2409,27 @@
          fill-rule="evenodd"
          d="m 1232.91,1194.48 -0.09,0.22 -0.73,-0.11 -0.36,-0.77 -0.91,-0.22 1.64,-0.77 h 0.63 l -0.09,0.33 0.55,-0.33 h 0.45 l -0.18,0.33 h 0.27 l 0.19,0.44 0.09,-0.22 -0.18,-0.55 0.63,0.33 0.18,0.44 0.1,-0.11 v -0.11 h 0.72 l -0.18,0.33 h 0.18 l -0.27,0.11 0.27,0.22 h -0.36 l 0.18,0.22 0.55,-0.44 0.09,-0.33 h -0.18 v -0.22 l 0.45,0.11 -0.18,0.33 0.45,-0.33 v 0.33 l 0.19,-0.22 -0.09,0.55 -0.28,0.11 h 0.28 v 0.44 l 0.18,0.11 -0.09,-0.77 h 0.45 v 0.77 l 1.19,-1.43 v 0.33 l -0.28,0.22 0.09,0.44 h 0.09 v -0.33 l 0.19,0.11 v -0.33 l 0.54,0.22 0.09,0.33 0.09,0.11 -0.81,0.22 -0.28,0.88 v 0.33 l -0.45,-0.55 -1.73,0.11 -0.91,-0.33 -0.37,0.22 -0.45,-0.44 -0.64,0.11 -0.45,-0.44 h -0.46"
          id="path772" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#00001c;fill-opacity:1;stroke-width:1.56289"
+         x="1227.2295"
+         y="1189.671"
+         id="mie"><tspan
+           sodipodi:role="line"
+           id="tspan97227"
+           style="fill:#00001c;fill-opacity:1;stroke-width:1.56289"
+           x="1227.2295"
+           y="1189.671">みえけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#00001c;fill-opacity:1;stroke-width:1.56289"
+           x="1227.2295"
+           y="1213.015"
+           id="tspan100279">三重県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#00001c;fill-opacity:1;stroke-width:1.56289"
+           x="1227.2295"
+           y="1233.8535"
+           id="tspan100281">Mie</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2326,7 +2440,9 @@
        fill="#b3ff66"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g778">
+       id="g778"
+       onmouseover="getElementById(&quot;kyoto&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;kyoto&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;kansairegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2355,7 +2471,9 @@
        fill="#ff3399"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g788">
+       id="g788"
+       onmouseover="getElementById(&quot;niigata&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;niigata&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2371,6 +2489,27 @@
          fill-rule="evenodd"
          d="m 1326.77,923.715 0.04,-0.051 0.02,0.045 -0.03,0.034 -0.03,-0.028"
          id="path786" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke-width:1.56289"
+         x="1382.891"
+         y="858.79834"
+         id="niigata"><tspan
+           sodipodi:role="line"
+           id="tspan10801"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1382.891"
+           y="858.79834">にいがたけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1382.891"
+           y="882.14233"
+           id="tspan10805">新潟県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1382.891"
+           y="902.98083"
+           id="tspan10807">Niigata</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2381,7 +2520,9 @@
        fill="#ff66b3"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g794">
+       id="g794"
+       onmouseover="getElementById(&quot;fukui&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;fukui&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2392,6 +2533,27 @@
          fill-rule="evenodd"
          d="m 1181.99,1006.41 0.05,-0.29 0.27,0.01 0.01,0.23 -0.33,0.05"
          id="path792" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000001;fill-opacity:1;stroke-width:1.56289"
+         x="1155.9502"
+         y="1027.7236"
+         id="fukui"><tspan
+           sodipodi:role="line"
+           id="tspan28523"
+           style="fill:#000001;fill-opacity:1;stroke-width:1.56289"
+           x="1155.9502"
+           y="1027.7236">ふくいけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000001;fill-opacity:1;stroke-width:1.56289"
+           x="1155.9502"
+           y="1051.0676"
+           id="tspan28527">福井県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000001;fill-opacity:1;stroke-width:1.56289"
+           x="1155.9502"
+           y="1071.9061"
+           id="tspan28529">Fukui</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2402,7 +2564,9 @@
        fill="#e32c87"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g798">
+       id="g798"
+       onmouseover="getElementById(&quot;gifu&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;gifu&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2418,7 +2582,9 @@
        fill="#ffcce6"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g802">
+       id="g802"
+       onmouseover="getElementById(&quot;nagano&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;nagano&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2434,12 +2600,35 @@
        fill="#ff66b3"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g806">
+       id="g806"
+       onmouseover="getElementById(&quot;aichi&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;aichi&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
          d="m 1284.07,1156.39 -11.38,2.99 -6.83,2.43 -0.91,0.45 -0.18,0.44 v -0.56 l -0.18,-0.22 0.09,0.78 -0.18,-0.33 -3.37,1.32 -1.91,0.22 -1.73,-0.44 -4.37,1.33 -0.55,-0.22 -1,0.11 -0.18,-0.22 0.36,-0.67 -0.18,0.33 0.18,0.12 0.46,-0.56 0.54,-1.77 2.01,-4.09 0.91,-0.89 h 0.82 l 0.63,0.45 v 0.22 l -0.36,-0.11 0.09,0.55 0.27,-0.11 v 0.11 l -0.36,0.22 0.45,-0.11 1.19,0.56 -0.37,0.33 0.09,0.55 0.37,-0.33 h 0.82 l 0.09,0.22 1.73,-0.89 -0.91,-0.88 0.36,-0.22 1,0.33 -0.09,-0.11 -0.91,-0.22 h -0.36 l -0.09,0.22 -0.18,-0.11 0.27,-0.11 h 0.36 l 0.82,0.22 1,-0.33 -0.18,0.11 0.55,0.11 1.09,-0.55 0.82,-0.89 0.73,0.11 0.72,-0.88 1.37,0.22 0.55,-0.45 0.09,-0.77 0.18,0.11 0.18,-0.33 0.09,0.22 h 0.37 l -0.82,-1 1,-0.66 0.45,0.11 0.46,0.55 v 0.33 h 0.36 l 0.37,-1.21 -0.37,-0.67 1.73,-1.44 1.28,0.34 v 2.98 l -1,0.23 0.18,0.22 -0.28,0.55 -0.18,-0.22 0.09,0.11 0.09,0.33 -0.18,0.56 0.73,-0.34 v -0.33 l 0.91,0.33 0.09,0.23 0.55,-0.89 h 0.45 l -0.09,-0.11 h -0.27 l -0.55,-0.33 0.28,-0.34 0.82,0.12 0.18,-0.67 0.91,-0.55 -0.09,-0.11 0.72,-1.44 0.64,-0.22 -0.45,-0.56 -0.64,0.33 -1.46,-0.33 0.09,-3.65 h 0.37 v -0.34 h 0.82 l 0.09,-0.33 -0.55,-0.22 -0.18,-0.55 -0.73,-0.56 -0.63,-1.22 -1.01,-0.55 -1.09,-0.11 0.82,0.22 -0.09,0.55 -1,-0.11 -0.09,-0.22 0.27,-0.11 -0.27,-0.11 -0.28,0.22 0.28,0.33 -0.28,-0.22 -0.36,0.33 -0.18,-0.55 0.09,0.44 h -0.09 l -1.28,-0.11 -0.36,-0.77 -0.64,0.11 -1.64,-1 h -0.45 l -0.18,-0.22 0.18,0.33 0.36,-0.11 0.55,0.55 -0.73,0.11 0.37,0.34 -0.73,0.88 -0.73,-0.66 0.27,-0.33 0.37,0.22 -0.55,-0.45 0.09,0.12 -0.45,0.55 -0.37,-0.11 0.27,0.22 -0.72,1.55 0.36,-0.11 -0.27,0.44 0.18,1.11 -0.91,1 h -0.46 l -0.27,-0.33 0.55,-0.22 -0.09,-0.45 0.36,-0.22 -0.82,-0.89 v 0.23 l -0.55,-0.11 v 0.11 h 0.19 l -0.82,0.33 -0.55,-0.67 h -0.73 l -0.45,0.67 -0.55,-0.11 -0.45,-0.67 -0.82,-0.11 v 0.45 h -0.28 l 0.19,0.22 -0.55,0.11 -0.73,0.77 h -0.09 l -0.09,-0.11 -0.09,-0.22 h -0.18 l 0.09,-0.44 -0.64,-0.33 -0.91,0.11 v 0.33 l -0.09,-0.22 -1.09,0.66 -1.46,0.22 0.18,-0.11 -0.45,-0.11 -0.91,-1 0.09,-0.11 0.09,0.11 0.18,-0.22 h -0.36 l -0.18,-0.55 -0.91,-0.78 -0.19,-0.66 0.28,-0.22 -0.37,-0.23 -2.55,-0.66 -0.27,-0.56 -1.18,0.89 0.09,-0.44 0.54,-0.45 0.1,0.23 0.18,-0.11 0.27,-0.12 -0.64,-1.88 0.19,0.55 v -0.55 h -0.1 l 0.19,-0.56 1,-1.55 v -0.33 l 0.54,0.11 -0.36,-0.33 0.46,-1.45 h 0.54 l -0.09,-0.44 -0.45,0.22 v -0.22 l 0.09,-2.55 0.27,-0.45 -0.18,-0.55 0.54,-1.56 -0.45,-0.44 -0.18,1.22 -0.28,-0.11 -0.09,2.55 -0.36,0.23 0.27,0.33 v 0.33 l -1.18,2.55 0.54,0.45 -0.27,0.11 -0.09,0.33 -0.09,-0.44 -1.09,-0.45 -0.28,0.34 0.46,0.33 v 0.44 l -0.55,0.78 -0.91,-0.33 0.09,0.55 0.55,0.11 0.09,0.34 -0.18,0.44 -0.37,0.11 V 1139 h -0.27 l 0.18,0.11 h -0.18 l 0.09,0.55 h 0.28 l -0.1,1.44 -0.45,0.11 0.27,0.12 -0.18,1.33 -0.36,0.11 0.09,1.77 -0.64,1.55 h 0.18 v 0.67 l 0.91,0.55 v 0.67 l 1.19,0.88 0.63,0.89 1.09,0.44 0.37,0.78 -0.46,0.22 0.09,0.33 -0.27,-0.11 0.27,0.22 0.28,-0.11 0.27,0.22 -0.36,0.67 h 0.18 l 0.27,0.44 0.28,-0.11 0.09,0.44 -0.28,-0.11 -0.09,0.33 h -0.18 v 0.11 l 0.18,0.11 0.09,-0.11 -0.09,0.22 -0.09,0.12 -0.55,-0.67 -1.63,0.11 -0.64,-0.66 -0.18,0.33 h 0.27 l -0.27,0.22 -0.28,-0.11 -0.09,-0.33 -0.73,-0.11 -1,-0.78 -1.54,-0.55 -1.01,-0.67 -0.45,-0.77 -0.64,-0.11 -0.09,-0.56 -0.54,-0.44 -0.82,-1.44 0.27,-0.11 1,-2.66 0.64,-2.99 0.09,-1.33 -0.73,-1.33 -0.09,-1.11 -1.46,-1 0.37,-0.11 -0.18,-0.56 -0.19,-0.11 -0.27,1 -0.46,-0.11 -0.36,-0.78 v -0.44 l 0.36,-0.45 -0.36,-0.88 0.18,-0.23 -0.27,-0.33 -0.09,0.22 0.09,-0.22 0.09,-0.22 0.09,-1.22 -0.09,-1 0.55,-2.56 -0.73,-0.44 0.82,-1.22 0.45,0.22 0.19,-0.33 -0.37,-0.22 0.46,-0.78 0.18,0.11 -0.09,-0.22 0.27,-0.67 h 0.55 l 0.27,-0.44 -0.91,-0.12 0.27,-0.44 1.46,0.11 0.09,0.33 0.45,-0.77 -1.63,-0.34 1.36,-2.33 1.55,-0.11 v -0.23 l -0.82,-0.22 0.55,-1.78 -0.19,-0.44 0.1,-0.34 0.36,0.34 v -0.56 l 0.55,-0.11 h -0.55 v -0.89 l -0.82,-0.44 -0.46,0.44 -0.36,-0.55 -0.09,0.77 0.18,0.23 -0.36,0.77 -0.09,-0.44 -0.19,0.44 0.1,0.45 -0.46,-0.22 -0.09,-0.56 0.27,-0.22 -0.27,0.11 v 0.11 0.78 l 0.36,0.11 -0.36,1.11 -1,-0.22 0.27,-0.44 h -1 l -0.27,1.22 -2.55,-0.11 v 0.66 h 0.36 l -0.09,1.56 -1.64,-0.89 1.37,1.45 -0.18,0.66 -0.64,-0.44 0.91,0.78 -1.55,-1 -0.54,0.11 -0.1,-0.11 0.28,-0.23 -0.91,-1.22 -0.64,-1.44 -0.18,-2.56 -1.46,-1.56 -1.36,-0.78 -1.46,-1.89 -1.46,-0.33 -0.27,-0.67 0.18,-1.78 -0.27,-1.78 0.09,-1.45 0.82,-1.34 -0.36,-3.9 1.36,-1.34 0.91,-2.11 1.37,-1.45 2.64,-5.92 0.72,-0.89 0.37,-0.11 1.55,0.11 -0.09,0.45 0.63,0.22 2.55,0.45 2,-1.12 0.37,-0.45 1.82,-0.44 2.73,-0.23 0.91,-0.89 2,-1 v -1.46 l 0.18,-0.55 2.01,-0.34 h 0.27 l -0.55,0.45 0.09,0.44 -0.72,1.12 0.82,0.22 0.09,0.56 0.63,0.34 0.28,1 1,-0.11 0.45,0.56 h 0.64 l 0.36,0.78 1.01,0.22 0.27,0.56 -0.37,0.89 0.19,1.23 0.18,0.23 0.91,-0.45 0.45,0.33 0.37,0.9 -0.73,0.78 0.27,0.89 1.19,0.33 v 1.23 l 1.09,0.22 0.45,-1.11 2.28,0.78 1.09,1.34 1.55,-0.34 0.91,1.34 -0.36,0.34 1.09,1.11 1,0.22 0.27,-0.33 0.27,0.11 0.46,-0.56 0.64,-0.11 0.09,0.45 h 0.18 l 0.82,-0.78 h 0.55 l 0.09,-0.45 1.09,-0.33 0.27,-0.23 0.09,-1 h 0.73 l 0.27,-0.45 0.55,0.23 2,-0.34 1.73,1.34 1.09,0.34 0.1,0.22 -0.46,0.67 0.36,0.22 -0.09,0.33 1.92,-0.22 0.36,-0.22 0.36,0.44 0.46,-0.22 0.27,0.78 -0.36,0.45 0.36,0.67 1,-0.11 0.64,0.66 0.64,-0.55 1,1.67 0.45,-0.11 0.46,-0.89 0.73,-0.12 0.18,-0.55 h 0.55 l 1.27,-1.23 1.55,-0.56 v -0.44 l 0.63,0.11 0.1,-0.34 0.54,-0.22 0.18,-0.56 0.37,0.12 -0.09,-0.9 0.72,-0.11 1.1,0.34 0.63,-0.34 0.82,0.11 v -0.67 h 0.28 l 0.45,0.67 -1.18,0.78 0.18,0.9 -0.82,0.55 -0.09,0.78 0.46,1.01 0.81,0.44 1.19,1.56 -0.09,1.23 0.09,0.78 1,-0.11 1.82,-1.01 1.46,-0.22 0.82,0.34 v -0.45 l 0.72,-0.45 v -0.78 l 1.1,-0.11 0.81,-0.33 0.28,-0.34 0.36,0.34 1.37,-0.22 0.54,0.44 0.82,-0.22 0.09,0.89 0.91,-0.11 0.64,0.33 1.28,-0.22 0.63,0.33 0.09,0.34 -0.27,0.44 0.64,0.67 0.73,-0.33 0.91,0.22 2.18,-1.11 1.09,0.33 -0.72,0.11 0.18,0.56 -0.64,0.11 -0.46,1.56 h -0.72 l -0.28,0.33 0.55,0.9 h 0.55 l 0.63,0.55 -0.36,1 0.64,0.56 -0.55,0.45 -0.64,-0.45 -0.18,0.67 0.27,0.44 -0.72,0.89 h -0.37 l -0.27,-0.55 -0.37,0.22 -0.09,0.56 0.55,0.33 0.18,1.78 -0.45,0.34 -0.19,0.66 -1.09,-0.33 -0.45,0.78 0.18,1.22 -2.73,2 -0.82,1.56 -0.91,0.44 -0.09,0.78 -0.91,1.23 -0.28,1.22 0.55,0.66 -0.64,0.89 0.55,1.23 -0.91,0.11 -0.36,0.66 -0.1,0.67 -0.45,0.11 -0.55,0.89 -0.54,-0.22 -0.73,0.33 -0.64,1.11 0.18,0.56 -0.54,0.77 v 1 l -0.46,0.33 v 1.11 l -0.54,0.67 -1.28,0.67 -0.09,0.33 -1.46,0.22 -0.18,1.22 -0.54,1 -2.83,-0.22 -0.72,0.88 -0.91,-0.11 -0.91,0.67 -1.37,0.44 0.09,0.78 -1.18,1.11 0.64,0.88 -0.28,0.56 0.18,0.89 -0.91,0.44 -0.36,0.66 0.18,0.34 -0.36,1.99 0.45,0.89 -0.18,0.44 0.27,0.33 v 1 l 0.46,0.44 0.36,1.33 -0.54,2.44 v 0.44 l -3.55,0.44"
          id="path804" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000004;fill-opacity:1;stroke-width:1.56289"
+         x="1262.5582"
+         y="1110.7068"
+         id="aichi"><tspan
+           sodipodi:role="line"
+           id="tspan57450"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1262.5582"
+           y="1110.7068">あいちけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1262.5582"
+           y="1134.0508"
+           id="tspan57454">愛知県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000004;fill-opacity:1;stroke-width:1.56289"
+           x="1262.5582"
+           y="1154.8893"
+           id="tspan57456">Aichi</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2450,7 +2639,9 @@
        fill="#ff99cc"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g810">
+       id="g810"
+       onmouseover="getElementById(&quot;yamanashi&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;yamanashi&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2466,7 +2657,9 @@
        fill="#ff99cc"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g814">
+       id="g814"
+       onmouseover="getElementById(&quot;toyama&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;toyama&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2482,12 +2675,35 @@
        fill="#ff3399"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g818">
+       id="g818"
+       onmouseover="getElementById(&quot;shizuoka&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;shizuoka&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
          d="m 1413.05,1112 -0.09,0.89 -0.91,1.22 -0.64,0.33 -0.09,0.56 -1,1.34 0.27,0.44 -0.09,-0.33 0.36,-0.23 0.1,0.78 -0.19,0.23 -0.45,0.22 0.36,1.11 -0.82,1.45 0.46,0.66 0.36,-0.11 0.55,0.33 0.18,-0.44 h 0.09 0.28 l 0.54,0.44 -0.27,2.67 0.27,0.67 -1.09,0.11 -0.27,0.67 0.82,1 0.09,1.22 0.82,0.78 0.27,-0.22 -0.37,-0.23 0.37,0.23 -0.09,-0.23 0.91,0.11 0.73,0.34 -0.1,0.44 0.28,0.22 -0.18,0.34 0.27,0.66 1.09,-0.33 v 0.89 l -0.27,0.44 0.45,0.45 -0.27,0.33 0.18,0.22 -0.54,0.89 v 1.11 l -0.73,1 0.09,0.33 0.55,0.11 0.09,0.34 -0.46,0.22 -0.36,1 -1,0.55 -1.1,0.22 -0.36,1.11 -0.82,-0.11 -0.36,0.45 -0.46,1.22 -0.09,0.99 0.27,0.45 -0.18,0.33 0.09,0.22 -0.45,0.45 -0.82,1.33 -0.18,1.55 -1.37,0.99 0.18,0.23 0.28,-0.23 0.09,0.56 -0.82,0.22 -0.82,-0.22 -0.46,1.22 -1.18,0.22 -0.55,0.77 0.19,0.78 -0.28,0.22 v 0.33 l -0.36,0.11 v 0.56 h -0.37 l 0.37,0.55 -0.73,0.44 v 0.34 h -0.36 v 0.33 l 0.09,-0.11 -0.46,1.11 -0.09,0.66 0.64,0.55 -0.64,0.67 0.36,0.11 v 0.55 l 0.64,-0.11 0.09,1.11 -0.45,-0.45 -0.18,0.78 -0.91,-0.33 -0.1,0.44 -0.72,-0.22 0.18,-0.67 -0.27,-0.33 0.36,-0.11 -0.09,-0.33 0.36,-0.33 -0.45,-0.33 -0.73,0.33 v 0.66 h -0.18 l 0.18,0.33 -0.55,-0.55 -0.45,0.22 0.45,0.44 -0.82,0.12 -1,0.77 -0.09,0.44 0.09,0.22 -0.36,0.67 v 0.11 h 0.09 l -0.73,0.77 -1,-0.55 -0.27,0.33 v 0.22 h 0.27 l -0.18,0.33 -0.18,-0.22 -0.1,0.34 h -0.63 l -0.37,0.55 -0.54,-0.11 -0.64,0.44 0.18,0.22 -0.82,-0.11 -0.18,0.89 -0.36,-0.56 v 0.11 l 0.27,0.45 h -0.18 l 0.27,0.22 -0.27,0.11 -0.28,-0.44 -0.09,0.11 -0.27,-0.23 v 0.12 l 0.09,0.11 -0.82,-0.23 -0.09,-0.88 h -0.18 l -0.09,0.33 -0.55,-0.33 -0.27,-1.22 -1.18,0.67 -0.1,-1.22 -0.36,-0.44 -0.64,0.11 -0.36,-0.22 -0.36,-0.78 0.18,-0.66 0.45,0.11 0.37,-0.78 0.54,0.23 -0.18,-0.78 -0.18,-0.11 -0.27,0.33 -0.46,-0.11 v -0.77 l -0.64,-0.56 -0.18,0.11 v -0.44 l -0.82,-0.55 -1.09,0.33 -0.27,-0.22 0.36,-0.33 -0.18,-0.23 0.18,-0.44 h -0.27 l 0.27,-1.66 -0.27,-0.77 0.63,-0.11 -0.09,-0.56 0.28,-0.22 0.45,0.22 -0.09,-0.55 h 0.55 l -0.55,-0.67 h 0.37 l 0.36,-0.55 0.36,0.11 0.19,-0.44 0.09,0.22 0.18,-0.11 0.18,-0.45 -0.18,-0.22 -0.18,0.22 v -0.11 -0.11 h 0.27 l -0.18,-0.66 -0.82,-0.11 0.54,-0.34 -0.18,-0.33 0.09,0.33 -0.27,-0.22 0.18,-0.55 -0.91,-1 0.09,-0.44 -0.36,-0.33 0.36,-0.34 v 0.11 l -0.09,0.11 h 0.46 l -0.18,-0.33 0.45,-0.22 -0.18,-0.44 -0.73,-0.11 -0.09,-1 0.64,-0.45 h 0.36 l -0.27,0.34 0.27,0.33 0.27,-0.11 -0.72,-1.89 h 0.45 l 0.18,-0.44 0.37,0.11 0.27,-0.66 -0.18,-0.34 h -0.55 l -0.09,-0.44 -0.36,0.11 -0.46,-0.44 -0.18,-0.23 0.45,-0.22 -0.18,-1.22 0.82,-1.22 0.37,-0.11 0.09,0.33 0.63,-0.66 0.09,-0.45 0.64,-0.22 -0.36,-0.55 0.18,0.11 -0.18,-0.67 -0.64,-0.66 -0.27,-1.56 -0.64,-0.78 -0.27,-1.88 0.36,-0.56 -0.18,0.44 1,0.23 -0.18,-0.78 -0.46,-0.33 0.46,-1.34 0.36,-0.44 -0.09,-1.45 0.64,-1.33 0.18,0.11 -0.27,0.33 0.18,0.23 h 0.73 l 1,0.44 0.27,-0.33 1.19,-0.11 0.36,0.44 h 0.64 l 0.18,0.45 2.46,-1.01 0.18,0.56 0.45,-0.56 v 0.56 l 0.55,0.22 0.55,-0.66 -0.55,-0.78 0.55,-0.67 -0.1,-0.44 h 0.1 l 0.09,0.11 0.54,-0.56 -0.63,-0.22 -0.19,0.22 v -0.22 l -0.36,-0.11 v 0.33 l -0.46,0.22 -0.91,-2.22 -0.45,-0.33 -0.36,0.11 -0.55,-0.89 -0.37,0.22 0.46,-0.44 -0.27,0.22 -0.19,-0.34 -0.09,0.45 -0.09,-0.33 0.09,-0.34 -0.54,-0.78 -2.1,-1.67 -4.82,-1.67 -4.19,-0.44 -0.36,-0.33 0.45,-0.34 -0.45,0.11 v -0.33 l -0.73,0.11 0.91,0.89 -1.27,0.22 -3.28,1.56 -4.55,0.33 -1.73,1.01 -0.18,0.22 h 0.27 l -0.18,0.22 0.27,-0.22 -0.18,0.33 -0.27,-0.11 -0.1,0.34 -0.27,1.11 -1.09,2.33 -1.18,0.89 0.36,0.45 -0.64,0.44 -0.36,-0.55 v 0.77 l -0.18,-0.89 -0.28,0.23 0.28,0.89 -0.19,0.22 -0.36,-0.56 -0.09,0.67 -0.18,-0.44 -0.55,0.44 h 0.09 l 0.46,-0.22 -0.09,1.33 -0.09,-0.11 -0.1,-0.22 -0.27,-0.11 v 0.33 l 0.37,0.22 0.09,0.45 -0.37,-0.11 0.18,0.44 0.28,-0.22 v 1.33 l 0.45,0.34 -0.27,0.33 -0.36,-0.33 0.63,0.66 0.37,-0.11 0.27,-0.67 -0.82,-0.77 v -0.23 l 0.36,0.12 -0.27,-0.34 v -0.44 l 0.09,-0.34 h 0.64 -0.64 l -0.09,0.23 0.64,0.22 0.27,-0.22 -0.09,-0.23 0.36,0.67 h 0.1 l -0.28,-1.22 h 0.46 l 0.91,0.55 -0.55,1.89 -0.73,1 -1.18,1 -2.28,1.22 -4.55,1.78 -1.09,1.22 -1.36,0.23 -0.73,0.55 h -0.09 l -0.19,-0.33 h -0.09 l 0.37,0.44 -0.28,-0.11 -1,0.67 -0.54,1.66 -0.73,0.78 v 0.77 l -0.46,0.56 -0.36,-0.11 0.55,0.33 -0.1,0.33 -0.27,-0.33 v 0.22 h -0.27 l 0.09,-0.44 -0.27,0.11 v 0.56 l 0.36,-0.12 v 0.12 0.22 l -0.18,-0.22 0.09,0.99 -0.18,0.34 0.27,0.33 -0.09,0.22 -0.36,-0.44 v 0.22 l 0.27,0.44 0.18,-0.22 0.18,-0.66 -0.09,0.44 0.55,0.89 v 0.99 l -2.64,4.11 -0.09,0.66 -0.55,-0.11 0.09,-0.33 -0.27,-0.11 -0.27,0.33 0.45,0.44 0.82,-0.11 -2.91,2.66 v -0.44 l 0.27,-0.33 -0.45,0.33 0.18,-0.11 -0.28,0.33 0.19,0.11 h -0.09 l -0.1,-0.11 -1.18,0.78 -1.27,1.1 -0.19,0.45 -0.27,-0.11 -0.91,1.77 -0.09,0.88 h 0.18 l 0.09,-0.33 -0.09,0.33 h -0.09 -0.09 l -0.45,0.89 0.09,0.22 -0.19,-0.11 0.19,0.22 -0.09,0.11 0.27,-0.11 -0.18,0.22 h -0.28 l -0.63,1.44 -0.28,1.77 0.09,1.22 0.19,0.33 0.27,-0.11 0.18,0.22 -0.36,0.11 0.27,0.33 v -0.22 l 0.36,0.89 0.19,-0.11 0.54,0.77 0.28,-0.11 -0.28,-0.22 h 0.09 l 0.19,0.22 -0.19,0.55 0.64,0.11 -0.09,-0.55 0.27,0.55 0.46,0.23 v 0.55 l -0.55,0.33 -2.64,-0.44 -0.91,-0.67 -9.1,-3.76 -6.92,-1.66 -5.46,-0.11 -0.36,0.11 0.18,0.11 -5.1,0.89 -2.28,0.77 -2.09,-0.11 -2.64,-1.1 -5.46,-1.11 -3.82,-0.44 -1.91,0.11 -0.19,-0.33 -1.91,-0.23 -6.64,0.78 v -0.33 l 0.54,-2.55 -0.36,-1.33 -0.46,-0.44 v -1 l -0.27,-0.33 0.18,-0.44 -0.45,-0.89 0.36,-1.99 -0.18,-0.34 0.36,-0.66 0.91,-0.44 -0.18,-0.89 0.28,-0.56 -0.64,-0.88 1.18,-1.11 -0.09,-0.78 1.37,-0.44 0.91,-0.67 0.91,0.11 0.72,-0.88 2.83,0.22 0.54,-1 0.18,-1.22 1.46,-0.22 0.09,-0.33 1.28,-0.67 0.54,-0.67 v -1.11 l 0.46,-0.33 v -1 l 0.54,-0.77 -0.18,-0.56 0.64,-1.11 0.73,-0.33 0.54,0.22 0.55,-0.89 0.45,-0.11 0.1,-0.67 0.36,-0.66 0.91,-0.11 -0.55,-1.23 0.64,-0.89 -0.45,-0.44 -0.1,-0.44 0.28,-1 0.91,-1.23 0.09,-0.78 0.91,-0.44 0.91,-1.56 2.64,-2 -0.18,-1.22 0.45,-0.78 1.09,0.33 0.19,-0.66 0.45,-0.34 -0.18,-1.78 -0.55,-0.33 0.09,-0.67 0.37,-0.11 0.27,0.55 h 0.37 l 0.72,-0.89 -0.27,-0.44 0.18,-0.67 0.64,0.45 0.55,-0.45 -0.64,-0.56 0.36,-1 -0.63,-0.55 h -0.55 l -0.55,-0.78 0.28,-0.45 h 0.72 l 0.46,-1.56 0.64,-0.11 -0.18,-0.56 h 0.63 l 0.09,-0.44 0.73,-0.56 0.91,-0.11 1.09,0.33 0.91,-1.56 -0.18,-0.55 0.09,-0.79 0.91,-0.78 1.73,0.34 0.55,-0.56 0.36,-1.45 h 1.1 l 0.63,-0.67 h 1.19 l 0.45,-1 0.73,0.11 0.73,-0.89 1.09,-0.22 1,0.22 0.64,-0.89 -0.09,-0.9 1,-0.55 -0.09,-0.56 1,-0.34 0.36,-0.78 0.46,-0.22 0.73,-0.11 1,0.89 0.91,-0.11 0.09,-0.67 -0.27,-0.34 0.27,-0.33 1.64,-1.23 0.45,-0.11 0.37,0.22 1,-0.33 0.91,-2.68 -0.73,-0.78 -0.73,-0.23 0.37,-1.34 -1.46,-0.78 0.27,-0.44 -0.36,-1.01 v -0.67 l 0.27,-0.34 0.64,0.34 0.73,-0.56 1.27,-0.11 0.27,-0.9 -0.36,-0.44 0.18,-1.23 0.46,-0.67 -1.91,-0.67 0.54,-1.68 -0.64,-0.34 1.64,-2.12 -0.45,-0.78 -0.91,-0.23 0.36,-0.11 0.37,-1.34 0.45,-0.23 0.37,-0.78 0.72,-0.11 1,0.89 0.37,-0.33 0.45,-1.68 0.82,-1.35 -0.27,-0.89 0.09,-1.34 0.55,-0.23 0.63,-1.01 0.82,-0.11 0.28,0.56 -0.37,1.23 0.73,0.56 -0.27,0.68 0.09,0.67 0.45,0.22 0.19,0.67 v 0.56 l -0.37,0.79 0.18,0.67 0.37,0.67 v 0.78 l 1.09,0.79 -0.18,2.12 0.45,0.34 v 0.33 l 0.46,0.9 -0.73,0.78 -0.36,3.46 -0.73,0.56 -0.09,0.45 0.27,1.12 0.55,0.22 0.36,1.23 -0.09,2.35 -0.91,0.67 -0.09,0.78 -0.64,0.67 -0.45,1.23 1.54,0.78 0.46,2.34 -0.64,0.67 0.64,1.45 1,0.22 1.09,0.9 0.91,-1.12 1,-0.22 1.28,-0.9 0.73,0.12 1,1 0.82,-0.11 v 0.33 l 0.63,0.34 0.46,1 -0.46,0.89 0.19,1.23 -0.19,0.67 1.46,2.23 0.64,3.68 0.36,0.66 0.64,-0.22 0.82,0.34 1,1.78 0.64,0.22 1.73,-0.11 0.81,0.33 0.46,-0.22 1.09,0.89 0.73,-0.78 0.36,-0.89 0.55,-0.44 0.18,-0.67 1,0.11 0.37,-0.34 v -0.66 l -0.46,-0.89 0.37,-0.56 -0.91,-3.12 -0.46,-0.56 0.46,-0.89 0.09,-1.23 -0.64,-1.78 -0.09,-1.01 1.73,-1.56 v -1 l -0.36,-0.9 0.09,-2.45 -0.19,-0.22 0.55,-1.12 -0.27,-1.79 1.64,-1.34 0.45,-1 1.37,-0.67 0.36,-0.45 0.46,0.78 0.72,0.45 0.91,3.8 2.37,-0.56 h 1.82 l 0.64,0.56 0.73,3.35 9.1,-1.79 1.82,0.22 0.82,-0.89 1.45,-0.67 0.37,0.22 0.45,-0.22 0.91,1 0.37,-0.55 0.73,-0.12 2.09,-1.34 2.18,0.12 1.73,-0.23 0.46,-0.33 0.91,0.33 h 1.18 l 0.19,0.34 -0.19,1.45 0.55,0.78 0.09,1.34 0.46,0.22 -0.37,0.78 0.18,1.12 0.64,0.89 -0.73,1.45 -0.36,2.23 -0.64,0.23 -1.64,2.23 -0.09,1.56 0.37,0.78 -0.28,0.33 0.64,1.23 -0.09,0.44 0.45,0.67 -0.09,1 1.73,1.68 0.91,0.11 0.55,1.11 -0.18,0.89 0.36,0.34 -0.18,0.66 h 1.55 l 3.18,0.89 1.64,-0.11 h 0.09 l -0.18,0.23"
          id="path816" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke-width:1.56289"
+         x="1362.1117"
+         y="1135.9856"
+         id="shizuoka"><tspan
+           sodipodi:role="line"
+           id="tspan50638"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1362.1117"
+           y="1135.9856">しずおかけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1362.1117"
+           y="1159.3296"
+           id="tspan50642">静岡県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.56289"
+           x="1362.1117"
+           y="1180.1681"
+           id="tspan51256">Shizuoka</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -2498,7 +2714,10 @@
        fill="#ffcce6"
        font-style="normal"
        transform="scale(0.999751)"
-       id="g828">
+       id="g828"
+       style="display:inline"
+       onmouseover="getElementById(&quot;ishikawa&quot;).style.opacity=&quot;1&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;1&quot;;"
+       onmouseout="getElementById(&quot;ishikawa&quot;).style.opacity=&quot;0&quot;; getElementById(&quot;chuburegion&quot;).style.opacity=&quot;0&quot;;">
       <path
          vector-effect="none"
          fill-rule="evenodd"
@@ -2519,6 +2738,27 @@
          fill-rule="evenodd"
          d="m 1269.3,895.808 0.01,0.002 -0.01,0.006 v -0.005 -0.003"
          id="path826" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8385px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#000012;fill-opacity:1;stroke-width:1.56289"
+         x="1177.0916"
+         y="951.87006"
+         id="ishikawa"><tspan
+           sodipodi:role="line"
+           id="tspan23827"
+           style="fill:#000012;fill-opacity:1;stroke-width:1.56289"
+           x="1177.0916"
+           y="951.87006">いしかわけん</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000012;fill-opacity:1;stroke-width:1.56289"
+           x="1177.0916"
+           y="975.21405"
+           id="tspan23831">石川県</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000012;fill-opacity:1;stroke-width:1.56289"
+           x="1177.0916"
+           y="996.05255"
+           id="tspan23833">Ishikawa</tspan></text>
     </g>
     <g
        font-size="45.8333px"
@@ -22302,26 +22542,91 @@
     <text
        xml:space="preserve"
        style="font-size:66.6668px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2298.3074"
-       y="1537.9677"
+       x="2272.4475"
+       y="1604.9674"
        id="chuburegion"
-       inkscape:label="kantoregion"
-       sodipodi:insensitive="true"><tspan
+       inkscape:label="chuburegion"><tspan
          sodipodi:role="line"
          id="tspan245172"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2298.3074"
-         y="1537.9677">ちゅうぶちほう</tspan><tspan
+         x="2272.4475"
+         y="1604.9674">ちゅうぶちほう</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2298.3074"
-         y="1612.6501"
+         x="2272.4475"
+         y="1679.6499"
          id="tspan245174">中部地方</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2298.3074"
-         y="1679.3169"
+         x="2272.4475"
+         y="1746.3167"
          id="tspan245176">Chubu Region</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:66.6668px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+       x="2518.2383"
+       y="2618.3086"
+       id="kansairegion"
+       inkscape:label="kansairegion"><tspan
+         sodipodi:role="line"
+         id="tspan61716"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2518.2383"
+         y="2618.3086">かんさいちほう</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2518.2383"
+         y="2692.991"
+         id="tspan61718">関西地方</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2518.2383"
+         y="2759.658"
+         id="tspan61720">Kansai Region</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:66.6668px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1726.2172"
+       y="1784.5778"
+       id="chugokuregion"
+       inkscape:label="chugoku"><tspan
+         sodipodi:role="line"
+         id="tspan104567"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1726.2172"
+         y="1784.5778">ちゅごくちほう</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1726.2172"
+         y="1859.2603"
+         id="tspan104569">中国地方</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1726.2172"
+         y="1925.927"
+         id="tspan104571">Chugoku Region</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:66.6668px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;opacity:0;fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+       x="2151.0757"
+       y="2812.156"
+       id="shikokuregion"
+       inkscape:label="shikoku"><tspan
+         sodipodi:role="line"
+         id="tspan139969"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2151.0757"
+         y="2812.156">しこくちほう</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2151.0757"
+         y="2886.8384"
+         id="tspan139973">四国地方</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#a00000;fill-opacity:1;stroke-width:1.5625;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2151.0757"
+         y="2953.5054"
+         id="tspan141165">Shikoku Region</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -22471,6 +22776,472 @@
          style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
          d="M 2960.8694,2368.2593 2857.079,2167.0446"
          id="path236303" />
+    </g>
+    <g
+       id="toyama"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2341.125"
+         y="1808.7375"
+         id="text15597"><tspan
+           sodipodi:role="line"
+           id="tspan15595"
+           style="stroke-width:3.12501"
+           x="2341.125"
+           y="1808.7375">とやまけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2341.125"
+           y="1855.4139"
+           id="tspan16523">富山県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2341.125"
+           y="1897.0804"
+           id="tspan16525">Toyama</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 2434.2889,1855.0641 89.2131,88.858"
+         id="path16940" />
+    </g>
+    <g
+       id="gifu"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2347.5962"
+         y="1862.693"
+         id="text36031"><tspan
+           sodipodi:role="line"
+           id="tspan36029"
+           style="stroke-width:3.12501"
+           x="2347.5962"
+           y="1862.693">ぎふけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2347.5962"
+           y="1909.3694"
+           id="tspan36417">岐阜県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2347.5962"
+           y="1951.0359"
+           id="tspan36419">Gifu</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 2416.1345,1917.1927 87.6346,201.3047"
+         id="path36732" />
+    </g>
+    <g
+       id="nagano"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2342.6584"
+         y="1860.1796"
+         id="text41257"><tspan
+           sodipodi:role="line"
+           id="tspan41255"
+           style="stroke-width:3.12501"
+           x="2342.6584"
+           y="1860.1796">ながのけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2342.6584"
+           y="1906.856"
+           id="tspan41259">長野県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2342.6584"
+           y="1948.5225"
+           id="tspan41261">Nagano</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 2428.5806,1891.2028 233.8363,154.496"
+         id="path41508" />
+    </g>
+    <g
+       id="yamanashi"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2226.4507"
+         y="1882.8542"
+         id="text45827"><tspan
+           sodipodi:role="line"
+           id="tspan45825"
+           style="stroke-width:3.12501"
+           x="2226.4507"
+           y="1882.8542">やまなしけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2226.4507"
+           y="1929.5306"
+           id="tspan45829">山梨県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2226.4507"
+           y="1971.1971"
+           id="tspan45831">Yamanashi</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2335.8819,1915.0031 2748.713,2126.326"
+         id="path46300" />
+    </g>
+    <g
+       id="hyogo"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2690.7727"
+         y="2418.6868"
+         id="text67154"><tspan
+           sodipodi:role="line"
+           id="tspan67152"
+           style="stroke-width:3.12501"
+           x="2690.7727"
+           y="2418.6868">ひょうごけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2690.7727"
+           y="2465.363"
+           id="tspan67156">兵庫県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2690.7727"
+           y="2507.0298"
+           id="tspan67158">Hyogo</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2593.3625,2447.0582 2162.96,2220.5131"
+         id="path67735" />
+    </g>
+    <g
+       id="kyoto"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2673.0667"
+         y="2403.2361"
+         id="text72474"><tspan
+           sodipodi:role="line"
+           id="tspan72472"
+           style="stroke-width:3.12501"
+           x="2673.0667"
+           y="2403.2361">きょうとふ</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2673.0667"
+           y="2449.9124"
+           id="tspan72476">京都府</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2673.0667"
+           y="2491.5791"
+           id="tspan72478">Kyoto</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2585.8241,2459.2002 2275.6939,2201.5325"
+         id="path72923" />
+    </g>
+    <g
+       id="shiga"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2667.9641"
+         y="2394.0901"
+         id="text78058"><tspan
+           sodipodi:role="line"
+           id="tspan78056"
+           style="stroke-width:3.12501"
+           x="2667.9641"
+           y="2394.0901">しがけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2667.9641"
+           y="2440.7664"
+           id="tspan78060">滋賀県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2667.9641"
+           y="2482.4331"
+           id="tspan78062">Shiga</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2597.1206,2453.3499 2366.5039,2204.6208"
+         id="path78561" />
+    </g>
+    <g
+       id="osaka"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2697.6062"
+         y="2418.9321"
+         id="text80834"><tspan
+           sodipodi:role="line"
+           id="tspan80832"
+           style="stroke-width:3.12501"
+           x="2697.6062"
+           y="2418.9321">おおさかふ</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2697.6062"
+           y="2465.6084"
+           id="tspan80836">大阪府</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2697.6062"
+           y="2507.2751"
+           id="tspan80838">Osaka</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2613.6337,2454.6943 2273.1586,2318.1535"
+         id="path81415" />
+    </g>
+    <g
+       id="wakayama"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2675.5928"
+         y="2427.2649"
+         id="text85857"><tspan
+           sodipodi:role="line"
+           id="tspan85855"
+           style="stroke-width:3.12501"
+           x="2675.5928"
+           y="2427.2649">わかやまけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2675.5928"
+           y="2473.9412"
+           id="tspan85859">和歌山県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2675.5928"
+           y="2515.6079"
+           id="tspan85861">Wakayama</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2563.5195,2465.4162 2250.333,2448.7017"
+         id="path86174" />
+    </g>
+    <g
+       id="nara"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2710.3735"
+         y="2418.978"
+         id="text91738"><tspan
+           sodipodi:role="line"
+           id="tspan91736"
+           style="stroke-width:3.12501"
+           x="2710.3735"
+           y="2418.978">ならけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2710.3735"
+           y="2465.6543"
+           id="tspan91740">奈良県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2710.3735"
+           y="2507.321"
+           id="tspan91742">Nara</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 2635.6762,2447.8482 -310.6984,-59.1911"
+         id="path92055" />
+    </g>
+    <g
+       id="okayama"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="1674.5518"
+         y="2084.6777"
+         id="text126179"><tspan
+           sodipodi:role="line"
+           id="tspan126177"
+           style="stroke-width:3.12501"
+           x="1674.5518"
+           y="2084.6777">おかやまけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="1674.5518"
+           y="2131.354"
+           id="tspan126181">岡山県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="1674.5518"
+           y="2173.0208"
+           id="tspan126183">Okayama</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 1777.608,2123.0185 226.7762,146.4514"
+         id="path126496" />
+    </g>
+    <g
+       id="hiroshima"
+       style="opacity:0"
+       onmouseover=""
+       onmouseout="">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="1667.5938"
+         y="2116.8691"
+         id="text131510"><tspan
+           sodipodi:role="line"
+           id="tspan131508"
+           style="stroke-width:3.12501"
+           x="1667.5938"
+           y="2116.8691">ひろしまけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="1667.5938"
+           y="2163.5454"
+           id="tspan131512">広島県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="1667.5938"
+           y="2205.2122"
+           id="tspan131514">Hiroshima</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 1736.8213,2212.8977 106.8563,115.0165"
+         id="path131959" />
+    </g>
+    <g
+       id="ehime"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2221.5022"
+         y="2622.3748"
+         id="text146365"><tspan
+           sodipodi:role="line"
+           id="tspan146363"
+           style="stroke-width:3.12501"
+           x="2221.5022"
+           y="2622.3748">えひめけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2221.5022"
+           y="2669.051"
+           id="tspan146631">愛媛県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2221.5022"
+           y="2710.7178"
+           id="tspan146633">Ehime</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2133.5827,2656.9487 1863.9389,2483.0198"
+         id="path147012" />
+    </g>
+    <g
+       id="kagawa"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2282.8215"
+         y="2609.9275"
+         id="text151763"><tspan
+           sodipodi:role="line"
+           id="tspan151761"
+           style="stroke-width:3.12501"
+           x="2282.8215"
+           y="2609.9275">かがわけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2282.8215"
+           y="2656.6038"
+           id="tspan151765">香川県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2282.8215"
+           y="2698.2705"
+           id="tspan151767">Kagawa</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2194.2125,2645.5583 2022.7403,2394.343"
+         id="path152200" />
+    </g>
+    <g
+       id="tokushima"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2303.5513"
+         y="2582.8599"
+         id="text156768"><tspan
+           sodipodi:role="line"
+           id="tspan156766"
+           style="stroke-width:3.12501"
+           x="2303.5513"
+           y="2582.8599">とくしまけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2303.5513"
+           y="2629.5361"
+           id="tspan156770">徳島県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2303.5513"
+           y="2671.2029"
+           id="tspan156772">Tokushima</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="m 2188.6758,2614.4149 -101.531,-168.7107"
+         id="path157937" />
+    </g>
+    <g
+       id="kochi"
+       style="opacity:0">
+      <text
+         xml:space="preserve"
+         style="font-size:41.6666px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:3.12501"
+         x="2225.1643"
+         y="2585.1306"
+         id="text162937"><tspan
+           sodipodi:role="line"
+           id="tspan162935"
+           style="stroke-width:3.12501"
+           x="2225.1643"
+           y="2585.1306">こうちけん</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2225.1643"
+           y="2631.8069"
+           id="tspan162939">高知県</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:3.12501"
+           x="2225.1643"
+           y="2673.4736"
+           id="tspan162941">Kochi</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.12501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker162218)"
+         d="M 2139.6491,2620.3568 1946.8114,2506.9562"
+         id="path163308" />
     </g>
   </g>
 </svg>
